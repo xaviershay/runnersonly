@@ -19,7 +19,7 @@ class App extends Component {
       <div className='row center'>
         <h1 className='blink'>RUNNERS ONLY</h1>
         <img src='7upspot.gif' className='spot' />
-        <p className='lead'>The premier dating site for runners. (No cyclists!)</p>
+        <p className='lead'>The première dating site for runners. (No cyclists!)</p>
       </div>
         <div>
         <img src='mocko-3.jpg' width='300' />
