@@ -5,3 +5,7 @@ Dating site for runners. Very serious.
 ## Development
 
 [Standard React](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md#available-scripts) (`npm start` etc).
+
+## Deploy
+
+Deployed to heroku at https://runnersonly.herokuapp.com/
